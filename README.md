@@ -26,3 +26,10 @@ __Used Frameworks__
 
 ![Architecture](images/Architecture.png)
 
+## Content of this repository
+* Flutter app to track user movement data
+* Machine Learning Jupyter Notebooks for Feature Engineering and Machine Learning models
+* Kubeflow pipelines for automatic model processing
+* KFServing YAML files for Model serving
+* KFServing templates for Canary rollouts
+
