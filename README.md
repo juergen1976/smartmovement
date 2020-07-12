@@ -27,7 +27,7 @@ __Used Frameworks__
 ![Architecture](images/Architecture.png)
 
 ## Content of this repository
-* Flutter app to track user movement data
+* Flutter app to track user movement data and OnDevice Machine Learning with TFLite
 * Machine Learning Jupyter Notebooks for Feature Engineering and Machine Learning models
 * Kubeflow pipelines for automatic model processing
 * KFServing YAML files for Model serving
