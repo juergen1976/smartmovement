@@ -9,14 +9,14 @@ on Kubernetes using Kubeflow.
 The goal is to design a blueprint for a scaleable Mobile data and Machine Learning pipeline to capture data and build
 smart recommendations features.
 
-Focus:
+__Focus__
 * Scalable capture and processing of mobile data in a Kubernetes setup
 * On premise or cloud data processing
 * Fully automated Machine Learning pipeline to process mobile data
 
 
 
-Used Frameworks:
+__Used Frameworks__
 1. Flutter for the mobile application with different sensor packages
 2. Kubeflow on Kubernetes
 3. SciKitLearn
