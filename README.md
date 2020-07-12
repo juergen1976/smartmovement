@@ -1,6 +1,6 @@
 # Smart movement
 
-## Based on my article in 05/2020: Kubernetes - Smarte Orchestrierung von Docker & Co. (25.09.2020)
+## Based on my article in JavaSpektrum 05/2020: Kubernetes - Smarte Orchestrierung von Docker & Co. (25.09.2020)
 
 
 This example project will cover a Smartphone extension to track movement data and process the Machine Learning pipeline
